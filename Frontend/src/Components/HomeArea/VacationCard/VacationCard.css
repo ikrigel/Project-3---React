@@ -1,0 +1,81 @@
+.VacationCard .NewBox  {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #4a4a4a;
+  margin-top: 10px;
+	width: 100px;
+  height: 200px;
+  display: inline-block;
+  margin: 10px;
+  padding: 0 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+  text-align: left;
+  overflow: auto;
+
+}
+.VacationCard CardHeader{
+  font-size: 14px;
+  line-height: 1.5;
+  color: #4a4a4a;
+  margin-top: 10px;
+  width: 100px;
+  height: 200px;
+  display: inline-block;
+  margin: 10px;
+  padding: 0 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+  text-align: left;
+  overflow: auto;
+}
+.VacationCard .Description {
+  font-size: 14px;
+  width: 228px;
+  height: 80px;
+  overflow: auto;
+}
+.VacationCard img {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
+.VacationCard > div:last-child {
+    margin-left: auto;
+}
+
+
+.NewBox {
+	width: 250px;
+  height: 800px;
+  display: inline-block;
+  margin: 10px;
+  padding: 0 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+  text-align: center;
+  overflow: auto;
+}
+.VacationCard .CardMedia > img{
+ height: 10px;
+ width: 10px;
+}
+.VacationCard CardMedia {
+  height: 10px;
+  width: 10px;
+}
+.VacationCard .header {
+  text-align: center;
+  width:200px;
+  height: 40px;
+  overflow: auto;
+  font-size: large ;
+  font-weight: bold;
+}

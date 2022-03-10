@@ -1,0 +1,19 @@
+7.2.22
+Changed config - added 2 db connections
+changed DB name to vacation-project and table users like northwind table structure
+Changed DAL - added connection to vacations db
+Changed BLL - connected current calls for auth and product logic to Northwind (Not to vacations for now)
+CHanged auth-logic to connect to vacation-project table
+Changed userID and vacationID to userId and vacationId in savedvacations table
+Changed vacationID to vacationId in vacations table
+Added vacation-model
+Added savedvacation-model
+Updated socket-logic with vacations
+Added vacations-controller
+Added savedvacations-controller
+Updated socket-logic with savedvacations
+
+12.2.22
+Changed table followed-vacations name to followedvacations
+Updated follow-vacations-controller
+Updated follow-vacations-controller logic

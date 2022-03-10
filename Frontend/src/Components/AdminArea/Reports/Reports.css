@@ -1,0 +1,30 @@
+.Reports {
+    
+    width: 1000px;
+    height: 600px;
+	margin: auto;
+    	
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Abel|Roboto+Condensed&display=swap');
+
+svg {
+    max-height: 400px;
+}
+.Reports {
+    background: #ffffff9e;
+}
+
+.Reports h1 {
+    background: #3f51b5;
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+.Reports label{
+    font-size: 50px;
+    color: red;
+    position: absolute;
+    margin: 0 20px;
+}

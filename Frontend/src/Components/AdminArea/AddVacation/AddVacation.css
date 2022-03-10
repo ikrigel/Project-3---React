@@ -1,0 +1,68 @@
+.AddVacation span {
+    color: red;
+    position: relative;
+    margin: 0 20px;
+}
+.AddVacation {
+	width: 450px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.AddVacation > .Header {
+    text-align: center;
+}
+
+.AddVacation .TextBox {
+    width: 100%;
+    margin: 5px 0;
+    height: fit-content;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .AddVacation > form  {
+	width: 250px;
+} */
+/* 
+.AddVacation input {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+} */
+/* 
+.AddVacation span {
+    color: red;
+    position: relative;
+    margin: 0 20px;
+}
+.AddVacation textarea{
+    width: 100%;
+    height: 100px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.AddVacation {
+	width: 450px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.AddVacation > .Header {
+    text-align: center;
+}
+
+.AddVacation .TextBox {
+    width: 100%;
+    margin: 5px 0;
+} */
